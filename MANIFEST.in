@@ -1,0 +1,3 @@
+graft cryptolio/templates
+graft cryptolio/static
+include cryptolio/schema.sql

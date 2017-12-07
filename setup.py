@@ -22,13 +22,10 @@ setup(
     description='Cryptocurrency portfolio manager and simulator',
     keywords='cryptocurrency portfolio manager simulator bitcoin btc ethereum eth litecoin ltc',
     long_description=README,
-    package_data={'': ['README.rst']},
+    include_package_data=True,
     install_requires=INSTALL_REQUIRES,
     tests_require=TEST_REQUIRES,
     test_suite='cryptolio/test',
-    entry_points={
-        'console_scripts': ['cryptolio=cryptolio.cli:run_cli'],
-    },
     classifiers=[
       'Programming Language :: Python :: 2.7',
       'Programming Language :: Python :: 3',
