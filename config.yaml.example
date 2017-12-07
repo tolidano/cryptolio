@@ -1,0 +1,11 @@
+# Visit GDAX to get a key
+gdax_api_key: GDAX_API_KEY
+gdax_api_secret: GDAX_API_SECRET
+
+# Visit Bitstamp to get a key
+bitstamp_api_key: BITSAMP_API_KEY
+bitstamp_api_secret: BITSTAMP_API_SECRET
+
+# Visit Gemini to get a key
+gemini_api_key: GEMINI_API_KEY
+gemini_api_secret: GEMINI_API_SECRET

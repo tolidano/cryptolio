@@ -1,0 +1,12 @@
+future>=0.16
+PyYAML>=3.10
+
+BitstampClient>=2.2.0
+geminipy>=0.0.3
+gdax>=1.0.6
+
+mock>=1.0.1
+pylint>=1.7.2
+pytest>=3.2.1
+pytest-cov>=2.5.0
+tox>=2.8.0
